@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1430574908 source:e:\codeblocksc++\algorithms\main.cpp
+	<iostream>
+	"QuickSort.h"
+	"InsertSort.h"
+
+1430570981 e:\codeblocksc++\algorithms\quicksort.h
+
+1430574793 e:\codeblocksc++\algorithms\insertsort.h
+
