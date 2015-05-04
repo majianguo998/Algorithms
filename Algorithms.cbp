@@ -38,6 +38,9 @@
 		<Unit filename="InsertSort.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="InsertSort1.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
