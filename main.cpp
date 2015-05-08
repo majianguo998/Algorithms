@@ -18,7 +18,8 @@ int main()
     //InsertSort(a,N);
     //InsertSort1(a,0,N-1);
     //mergeSort(a,0,7);
-    HeapSort(a,N);
+    //HeapSort(a,N);
+    QuickSort(a,0,9);
     for(int i=0;i<N;i++)
         cout << a[i] << " ";
     return 0;

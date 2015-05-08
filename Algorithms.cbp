@@ -41,6 +41,8 @@
 		<Unit filename="InsertSort1.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="MergeSort.h" />
+		<Unit filename="QuickSort.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
