@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1431391227 source:g:\github\algorithms\main.cpp
+	<iostream>
+	"Sort/Test.h"
+	"Search/Test.h"
+
+1431305056 g:\github\algorithms\sort\test.h
+	<iostream>
+	"CountingSort.h"
+	"HeapSort.h"
+	"InsertSort.h"
+	"InsertSort1.h"
+	"MergeSort.h"
+	"QuickSort.h"
+
+1431305056 g:\github\algorithms\sort\countingsort.h
+
+1431305056 g:\github\algorithms\sort\heapsort.h
+
+1431305056 g:\github\algorithms\sort\insertsort.h
+
+1431305056 g:\github\algorithms\sort\insertsort1.h
+
+1431305056 g:\github\algorithms\sort\mergesort.h
+
+1431305056 g:\github\algorithms\sort\quicksort.h
+
+1431391227 g:\github\algorithms\search\test.h
+	"Hash.h"
+	"BinarySearch.h"
+	"../Sort/HeapSort.h"
+
+1431321776 g:\github\algorithms\search\hash.h
+	<stdlib.h>
+
+1431391227 g:\github\algorithms\search\binarysearch.h
+
